@@ -1,1 +1,1 @@
-Exercícios realizados na disciplina AED I
+Exercícios de C++ realizados na disciplina AED I
